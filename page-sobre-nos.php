@@ -1,5 +1,5 @@
 <?php
-$estiloPaginaSobreNos = 'sobre_nos.css';
+$estiloPagina = 'sobre_nos.css';
 
 require_once 'header.php';
 
